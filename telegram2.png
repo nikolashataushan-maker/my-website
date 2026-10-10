@@ -4,12 +4,13 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Мій другий Telegram-канал</title>
+
 <style>
 body {
-  margin: 0;
   text-align: center;
   font-family: Arial, sans-serif;
 }
+
 img {
   max-width: 100%;
   height: auto;
@@ -20,8 +21,8 @@ img {
 
 <h2>Мій другий Telegram-канал</h2>
 
-<a href="ПОСИЛАННЯ_ДРУГОГО_КАНАЛУ" target="_blank">
-  <img src="telegram2.png" alt="Мій другий Telegram-канал">
+<a href="https://t.me/+PKr2wFmk-jZhYzIy" target="_blank">
+  <img src="telegram_new.png" alt="Мій другий Telegram-канал" width="300">
 </a>
 
 </body>
